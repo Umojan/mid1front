@@ -1,0 +1,8 @@
+{
+  "greeting": "Hello, User!",
+  "likes": "Likes",
+  "like_button": "👍 Like",
+  "liked_button": "❤️ Liked!",
+  "toggle_theme": "Toggle Theme",
+  "switch_language": "Switch Language"
+}
